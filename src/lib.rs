@@ -1,6 +1,6 @@
 pub mod matrix_struct;
 
-pub fn det(Matrix_in: matrix_struct::matrix) -> f64 {
+pub fn det(matrix_in: matrix_struct::matrix) -> f64 {
     0.0
 }
 
