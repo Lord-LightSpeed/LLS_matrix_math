@@ -1,7 +1,4 @@
 [package]
-name = "LLS_matrix_math"
+name = "lls_matrix_math"
 version = "0.1.0"
 edition = "2021"
-
-[dependencies]
-rmath = "0.1.5"

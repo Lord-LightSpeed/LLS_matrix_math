@@ -3,14 +3,5 @@
 version = 3
 
 [[package]]
-name = "LLS_matrix_math"
+name = "lls_matrix_math"
 version = "0.1.0"
-dependencies = [
- "rmath",
-]
-
-[[package]]
-name = "rmath"
-version = "0.1.5"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4bb6c3c9c8b008ed9e7a1bde46c2ab71b93c2e4c47cabee54755077bb4414928"
